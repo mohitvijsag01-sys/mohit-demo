@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Database & local data
+*.db
+*.sqlite3
+backend/sarcar.db
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
